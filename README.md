@@ -1,1 +1,1 @@
-"# polling" 
+"polling" 
